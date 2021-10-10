@@ -1,1 +1,1 @@
-# SKD7_TI-E_V3920059_VIORELLA
+Hill Cipher merupakan salah satu algoritma kriptografi yang memanfaatkan matriks sebagai kunci untuk melakukan enkripsi dan Dekripsi dan aritmatika modulo. Setiap karakter pada plaintext ataupun ciphertext dikonversikan kedalam bentuk angka. Enkripsi dilakukan dengan mengalikan matriks kunci dengan matriks plaintext, sedangkan Dekripsi dilakukan dengan mengalikan invers matriks kunci dengan matriks ciphertext

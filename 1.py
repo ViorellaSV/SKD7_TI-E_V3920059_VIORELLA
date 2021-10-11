@@ -92,7 +92,7 @@ def main():
   
     message = "viorellasunghaiyonvidiankhoyin"
 
-    K = np.matrix([[3, 3], [2, 5]])
+    K = np.matrix([[5, 1], [3, 2]])
    
     Kinv = matrix_mod_inv(K, len(alphabet))
 
